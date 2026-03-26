@@ -1128,15 +1128,15 @@ function resetGame(){
 }
 
 function loadSounds(){
-	destroySharkSound = new Audio('./sounds/destroyShark.mp3');
-	destroyEnemySubSound = new Audio('./sounds/destroyEnemySub.mp3');
-	fireTorpedoSound = new Audio('./sounds/fireTorpedo.mp3');
-	destroyPlayerSound = new Audio('./sounds/destroyPlayer.mp3');
-	rescueDiverSound = new Audio('./sounds/rescueDiver.mp3');
-	refitOxygenSound = new Audio('./sounds/refitOxygen.mp3');
-	deliverDiverSound = new Audio('./sounds/deliverDiver.mp3');
-	dropOxygenSound = new Audio('./sounds/dropOxygen.mp3');
-	lowOxygenSound = new Audio('./sounds/lowOxygen.mp3');
+	destroySharkSound = new Audio('./destroyShark.mp3');
+	destroyEnemySubSound = new Audio('./destroyEnemySub.mp3');
+	fireTorpedoSound = new Audio('./fireTorpedo.mp3');
+	destroyPlayerSound = new Audio('./destroyPlayer.mp3');
+	rescueDiverSound = new Audio('./rescueDiver.mp3');
+	refitOxygenSound = new Audio('./refitOxygen.mp3');
+	deliverDiverSound = new Audio('./deliverDiver.mp3');
+	dropOxygenSound = new Audio('./dropOxygen.mp3');
+	lowOxygenSound = new Audio('./lowOxygen.mp3');
 	
 
 }
